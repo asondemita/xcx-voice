@@ -7,14 +7,14 @@ var en$1 = {
 	"voice.entry.description": "Listen, translate, speak: recognize speech, translate it, and read text aloud with character voices."
 };
 var ja$1 = {
-	"voice.entry.name": "声",
+	"voice.entry.name": "会話",
 	"voice.entry.description": "「聞く」「訳す」「話す」。音声を聞き取り、翻訳し、いろんなキャラ声で読み上げます。"
 };
 var translations$1 = {
 	en: en$1,
 	ja: ja$1,
 	"ja-Hira": {
-	"voice.entry.name": "こえ",
+	"voice.entry.name": "かいわ",
 	"voice.entry.description": "「きく」「やくす」「はなす」。おんせいをききとり、ほんやくし、いろんなキャラごえでよみあげます。"
 }
 };
@@ -757,7 +757,7 @@ var en = {
 	"voice.preset.ghost": "ghost"
 };
 var ja = {
-	"voice.name": "声",
+	"voice.name": "会話",
 	"voice.listenAndWait": "聞き取る",
 	"voice.getSpeech": "聞き取った音声",
 	"voice.speechContains": "[WORD] と聞こえた",
@@ -794,7 +794,7 @@ var translations = {
 	en: en,
 	ja: ja,
 	"ja-Hira": {
-	"voice.name": "こえ",
+	"voice.name": "かいわ",
 	"voice.listenAndWait": "ききとる",
 	"voice.getSpeech": "ききとったおんせい",
 	"voice.speechContains": "[WORD] ときこえた",

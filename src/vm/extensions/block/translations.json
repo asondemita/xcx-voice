@@ -34,7 +34,7 @@
     "voice.preset.ghost": "ghost"
   },
   "ja": {
-    "voice.name": "声",
+    "voice.name": "会話",
     "voice.listenAndWait": "聞き取る",
     "voice.getSpeech": "聞き取った音声",
     "voice.speechContains": "[WORD] と聞こえた",
@@ -68,7 +68,7 @@
     "voice.preset.ghost": "おばけ"
   },
   "ja-Hira": {
-    "voice.name": "こえ",
+    "voice.name": "かいわ",
     "voice.listenAndWait": "ききとる",
     "voice.getSpeech": "ききとったおんせい",
     "voice.speechContains": "[WORD] ときこえた",
